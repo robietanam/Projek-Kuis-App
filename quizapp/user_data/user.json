@@ -1,0 +1,28 @@
+[
+  {
+    "username": "me",
+    "password": "123"
+  },
+  {
+    "username": "aku",
+    "password": "123",
+    "Score_(aku_quiz)": 0,
+    "Last_Score_(aku_quiz)": 0
+  },
+  {
+    "username": "namaewa",
+    "password": "123"
+  },
+  {
+    "username": "test",
+    "password": "123",
+    "Score_(aku_quiz)": 0,
+    "Score_(Siapakah naruto dalam film sasuke_quiz)": 10100,
+    "Score_(isian_test_quiz)": 20
+  },
+  {
+    "username": "r",
+    "password": "1",
+    "Score_(aku_quiz)": 0
+  }
+]

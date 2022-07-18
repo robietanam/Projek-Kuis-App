@@ -1,0 +1,29 @@
+[
+  {
+    "soal": "Siapakah nabi musa",
+    "a": "nabi",
+    "b": "rasul",
+    "c": "nabi musa",
+    "d": "bapakmu",
+    "jawaban": "a",
+    "score": 100
+  },
+  {
+    "soal": "Siapakah kamu",
+    "a": "aku",
+    "b": "kamu",
+    "c": "dia",
+    "d": "saya",
+    "jawaban": "c",
+    "score": 20
+  },
+  {
+    "soal": "Loh anda siapa?",
+    "a": "aku",
+    "b": "siapa",
+    "c": "gatau",
+    "d": "ya",
+    "jawaban": "c",
+    "score": 20
+  }
+]
